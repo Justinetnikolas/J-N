@@ -1,5 +1,5 @@
 function showMessage(){
-document.getElementById("messageSecret").innerHTML="https://forms.gle/rKfGhpGHiztyFYtT7"; 
+document.getElementById("messageSecret").innerHTML="forms.gle/rKfGhpGHiztyFYtT7"; 
 }
 
  var clicks=0;
