@@ -1,0 +1,39 @@
+.pageHeader{
+    background-color: aqua;
+    border: solid 3px blue;
+    text-align: center;
+   border-radius:50px ;
+}
+
+.pageHeader:hover{
+    background-color: chocolate;
+    transition: 5s;
+}
+
+.mainParagraph{
+    text-align: center;
+border:solid 5px darkblue;
+margin-top: 10px;
+}
+
+
+.mainParagraph:hover{
+    transition: 3s;
+font-size: xx-large;
+}
+
+.secondParagraph{
+    border:solid 3px darkmagenta;
+    text-align: center;
+    margin-top: 10px;
+    padding: 100px;
+}
+
+.secondParagraph:hover{
+    margin-top: 100px;  
+    transition: 1s;
+}
+.cliques{
+    text-align: center;
+    padding: 100px;
+}
